@@ -219,3 +219,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.env API keys Access tokens Private credentials Personal documents Private research papers Database credential
