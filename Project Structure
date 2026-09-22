@@ -1,0 +1,15 @@
+RAG-AI-assistant/
+│
+├── papers/
+│   └── research-paper.pdf
+│
+├── src/
+│   ├── ...
+│   └── ...
+│
+├── .gitignore
+├── LICENSE
+├── README.md
+└── requirements.txt
+
+The exact implementation may evolve as additional RAG capabilities are added.
