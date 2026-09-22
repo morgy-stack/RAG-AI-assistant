@@ -1,0 +1,14 @@
+RAG systems can still produce incorrect answers.
+
+Possible failure modes include:
+
+Irrelevant retrieval
+Missing information
+Poor document chunking
+Incorrect embeddings
+Insufficient context
+Model hallucination
+Ambiguous questions
+Conflicting information between documents
+
+For this reason, future versions should incorporate stronger retrieval evaluation, source attribution, citation support, and answer-grounding checks.
