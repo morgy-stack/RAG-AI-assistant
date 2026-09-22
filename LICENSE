@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RAG AI Assistant
 
 A Retrieval-Augmented Generation AI assistant project.
@@ -12,3 +13,28 @@ A Retrieval-Augmented Generation AI assistant project.
 ```bash
 pip install -r requirements.txt
 python app.py
+=======
+
+RAG systems can still produce incorrect answers.
+
+Possible failure modes include:
+
+Irrelevant retrieval
+Missing information
+Poor document chunking
+Incorrect embeddings
+Insufficient context
+Model hallucination
+Ambiguous questions
+Conflicting information between documents
+
+For this reason, future versions should incorporate stronger retrieval evaluation, source attribution, citation support, and answer-grounding checks.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+>>>>>>> a369ab70ec1bdaeb009a773e1f6422b691cf7672

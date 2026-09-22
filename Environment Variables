@@ -1,0 +1,9 @@
+Create a .env file in the project root if the application requires environment variables.
+
+Example:
+
+GOOGLE_API_KEY=your_api_key_here
+
+Never commit API keys, credentials, tokens, or other secrets to GitHub.
+
+Make sure .env is included in .gitignore.
